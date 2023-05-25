@@ -6,14 +6,13 @@ def main():
         char = ''
         alist = create_list(f"{dataset}")
         while True:
-            char += input("\nQuale autore desideri leggere? Digita una lettera per filtrare nel nostro ampio catalogo. " + char)
+            char += input("\nQuale genere desideri leggere? Digita una lettera per filtrare nel nostro ampio catalogo. " + char)
             alist = filter_list(alist, char)
-            print(char)
             print(alist)
             if not alist:
                 char = ''
                 alist = create_list(f"{dataset}")
-                print("\nC'è un errore... Non esiste nessun autore nel nostro catalogo che contiene la serie di caratteri da te scelta. ")
+                print("\nC'è un errore... Non esiste nessun genere nel nostro catalogo che contiene la serie di caratteri da te scelta. ")
                 continue
             if len(alist) == 1:
                 choice = input("\nContento? Digita 'y' se hai scelto o 'n' se vuoi rifare una ricerca. ")

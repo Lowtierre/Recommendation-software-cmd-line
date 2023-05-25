@@ -25,35 +25,35 @@ Machine Learning for Hackers,"Conway, Drew",data_science,233,O'Reilly
 "Signal and the Noise, The","Silver, Nate",data_science,233,Penguin
 Python for Data Analysis,"McKinney, Wes",data_science,233,O'Reilly
 Introduction to Algorithms,"Cormen, Thomas",computer_science,234,MIT Press
-"Beautiful and the Damned, The","Deb, Siddhartha",nonfiction,198,Penguin
+"Beautiful and the Damned, The","Deb, Siddhartha",non-fiction,198,Penguin
 "Outsider, The","Camus, Albert",fiction,198,Penguin
 "Complete Sherlock Holmes, The - Vol I","Doyle, Arthur Conan",fiction,176,Random House
 "Complete Sherlock Holmes, The - Vol II","Doyle, Arthur Conan",fiction,176,Random House
 "Wealth of Nations, The","Smith, Adam",economics,175,Random House
 "Pillars of the Earth, The","Follett, Ken",fiction,176,Random House
-Mein Kampf,"Hitler, Adolf",nonfiction,212,Rupa
+Mein Kampf,"Hitler, Adolf",non-fiction,212,Rupa
 "Tao of Physics, The","Capra, Fritjof",science,179,Penguin
 Surely You're Joking Mr Feynman,"Feynman, Richard",science,198,Random House
 "Farewell to Arms, A","Hemingway, Ernest",fiction,179,Rupa
 "Veteran, The","Forsyth, Frederick",fiction,177,Transworld
 False Impressions,"Archer, Jeffery",fiction,177,Pan
-"Last Lecture, The","Pausch, Randy",nonfiction,197,Hyperion
+"Last Lecture, The","Pausch, Randy",non-fiction,197,Hyperion
 Return of the Primitive,"Rand, Ayn",philosophy,202,Penguin
 Jurassic Park,"Crichton, Michael",fiction,174,Random House
-"Russian Journal, A","Steinbeck, John",nonfiction,196,Penguin
+"Russian Journal, A","Steinbeck, John",non-fiction,196,Penguin
 Tales of Mystery and Imagination,"Poe, Edgar Allen",fiction,172,HarperCollins
 Freakonomics,"Dubner, Stephen",economics,197,Penguin
 "Hidden Connections, The","Capra, Fritjof",science,197,HarperCollins
 "Story of Philosophy, The","Durant, Will",philosophy,170,Pocket
 Asami Asami,"Deshpande, P L",fiction,205,Mauj
 Journal of a Novel,"Steinbeck, John",fiction,196,Penguin
-Once There Was a War,"Steinbeck, John",nonfiction,196,Penguin
+Once There Was a War,"Steinbeck, John",non-fiction,196,Penguin
 "Moon is Down, The","Steinbeck, John",fiction,196,Penguin
 "Brethren, The","Grisham, John",fiction,174,Random House
 In a Free State,"Naipaul, V. S.",fiction,196,Rupa
 Catch 22,"Heller, Joseph",fiction,178,Random House
-"Complete Mastermind, The",BBC,nonfiction,178,BBC
-Dylan on Dylan,"Dylan, Bob",nonfiction,197,Random House
+"Complete Mastermind, The",BBC,non-fiction,178,BBC
+Dylan on Dylan,"Dylan, Bob",non-fiction,197,Random House
 Soft Computing & Intelligent Systems,"Gupta, Madan",data_science,242,Elsevier
 Textbook of Economic Theory,"Stonier, Alfred",economics,242,Pearson
 Econometric Analysis,"Greene, W. H.",economics,242,Pearson
@@ -65,22 +65,22 @@ Let Us C,"Kanetkar, Yashwant",computer_science,213,Prentice Hall
 "Amulet of Samarkand, The","Stroud, Jonathan",fiction,179,Random House
 Crime and Punishment,"Dostoevsky, Fyodor",fiction,180,Penguin
 Angels & Demons,"Brown, Dan",fiction,178,Random House
-"Argumentative Indian, The","Sen, Amartya",nonfiction,209,Picador
+"Argumentative Indian, The","Sen, Amartya",non-fiction,209,Picador
 Sea of Poppies,"Ghosh, Amitav",fiction,197,Penguin
-"Idea of Justice, The","Sen, Amartya",nonfiction,212,Penguin
+"Idea of Justice, The","Sen, Amartya",non-fiction,212,Penguin
 "Raisin in the Sun, A","Hansberry, Lorraine",fiction,175,Penguin
 All the President's Men,"Woodward, Bob",history,177,Random House
 "Prisoner of Birth, A","Archer, Jeffery",fiction,176,Pan
 Scoop!,"Nayar, Kuldip",history,216,HarperCollins
-Ahe Manohar Tari,"Deshpande, Sunita",nonfiction,213,Mauj
+Ahe Manohar Tari,"Deshpande, Sunita",non-fiction,213,Mauj
 "Last Mughal, The","Dalrymple, William",history,199,Penguin
 "Social Choice & Welfare, Vol 39 No. 1",Various,economics,235,Springer
-Radiowaril Bhashane & Shrutika,"Deshpande, P L",nonfiction,213,Mauj
-Gun Gayin Awadi,"Deshpande, P L",nonfiction,212,Mauj
-Aghal Paghal,"Deshpande, P L",nonfiction,212,Mauj
+Radiowaril Bhashane & Shrutika,"Deshpande, P L",non-fiction,213,Mauj
+Gun Gayin Awadi,"Deshpande, P L",non-fiction,212,Mauj
+Aghal Paghal,"Deshpande, P L",non-fiction,212,Mauj
 Maqta-e-Ghalib,"Garg, Sanjay",fiction,221,Mauj
-Beyond Degrees,,nonfiction,222,HarperCollins
-Manasa,"Kale, V P",nonfiction,213,Mauj
+Beyond Degrees,,non-fiction,222,HarperCollins
+Manasa,"Kale, V P",non-fiction,213,Mauj
 India from Midnight to Milennium,"Tharoor, Shashi",history,198,Penguin
 "World's Greatest Trials, The",,history,210,
 "Great Indian Novel, The","Tharoor, Shashi",fiction,198,Penguin
@@ -90,7 +90,7 @@ Freedom at Midnight,"Lapierre, Dominique",history,167,vikas
 "Winter of Our Discontent, The","Steinbeck, John",fiction,196,Penguin
 On Education,"Russell, Bertrand",philosophy,203,Routledge
 Free Will,"Harris, Sam",philosophy,203,FreePress
-Bookless in Baghdad,"Tharoor, Shashi",nonfiction,206,Penguin
+Bookless in Baghdad,"Tharoor, Shashi",non-fiction,206,Penguin
 "Case of the Lame Canary, The","Gardner, Earle Stanley",fiction,179,
 "Theory of Everything, The","Hawking, Stephen",science,217,Jaico
 New Markets & Other Essays,"Drucker, Peter",economics,176,Penguin
@@ -99,11 +99,11 @@ Electric Universe,"Bodanis, David",science,201,Penguin
 Burning Bright,"Steinbeck, John",fiction,175,Penguin
 "Age of Discontuinity, The","Drucker, Peter",economics,178,Random House
 Doctor in the Nude,"Gordon, Richard",fiction,179,Penguin
-Down and Out in Paris & London,"Orwell, George",nonfiction,179,Penguin
+Down and Out in Paris & London,"Orwell, George",non-fiction,179,Penguin
 Identity & Violence,"Sen, Amartya",philosophy,219,Penguin
 Beyond the Three Seas,"Dalrymple, William",history,197,Random House
 "World's Greatest Short Stories, The",,fiction,217,Jaico
-Talking Straight,"Iacoca, Lee",nonfiction,175,
+Talking Straight,"Iacoca, Lee",non-fiction,175,
 "Maugham's Collected Short Stories, Vol 3","Maugham, William S",fiction,171,Vintage
 "Phantom of Manhattan, The","Forsyth, Frederick",fiction,180,
 Ashenden of The British Agent,"Maugham, William S",fiction,160,Vintage
@@ -115,17 +115,17 @@ History of Western Philosophy,"Russell, Bertrand",philosophy,213,Routledge
 Selected Short Stories,,fiction,215,Jaico
 Rationality & Freedom,"Sen, Amartya",economics,213,Springer
 Clash of Civilizations and Remaking of the World Order,"Huntington, Samuel",history,228,Simon&Schuster
-Uncommon Wisdom,"Capra, Fritjof",nonfiction,197,Fontana
-One,"Bach, Richard",nonfiction,172,Dell
-Karl Marx Biography,,nonfiction,162,
+Uncommon Wisdom,"Capra, Fritjof",non-fiction,197,Fontana
+One,"Bach, Richard",non-fiction,172,Dell
+Karl Marx Biography,,non-fiction,162,
 To Sir With Love,Braithwaite,fiction,197,Penguin
 Half A Life,"Naipaul, V S",fiction,196,
 "Discovery of India, The","Nehru, Jawaharlal",history,230,
-Apulki,"Deshpande, P L",nonfiction,211,
+Apulki,"Deshpande, P L",non-fiction,211,
 Unpopular Essays,"Russell, Bertrand",philosophy,198,
 "Deceiver, The","Forsyth, Frederick",fiction,178,
 Veil: Secret Wars of the CIA,"Woodward, Bob",history,171,
-Char Shabda,"Deshpande, P L",nonfiction,214,
+Char Shabda,"Deshpande, P L",non-fiction,214,
 Rosy is My Relative,"Durrell, Gerald",fiction,176,
 "Moon and Sixpence, The","Maugham, William S",fiction,180,
 Political Philosophers,,philosophy,162,
@@ -150,7 +150,7 @@ Justice League: The Villain's Journey,,comic,258,
 "Death of Superman, The",,comic,258,
 History of the DC Universe,,comic,258,
 Batman: The Long Halloween,,comic,258,
-"Life in Letters, A","Steinbeck, John",nonfiction,196,
+"Life in Letters, A","Steinbeck, John",non-fiction,196,
 "Information, The","Gleick, James",science,233,
 "Journal of Economics, vol 106 No 3",,economics,235,
 Elements of Information Theory,"Thomas, Joy",data_science,229,
@@ -158,7 +158,7 @@ Power Electronics - Rashid,"Rashid, Muhammad",computer_science,235,
 Power Electronics - Mohan,"Mohan, Ned",computer_science,237,
 Neural Networks,"Haykin, Simon",data_science,240,
 "Grapes of Wrath, The","Steinbeck, John",fiction,196,
-Vyakti ani Valli,"Deshpande, P L",nonfiction,211,
+Vyakti ani Valli,"Deshpande, P L",non-fiction,211,
 Statistical Learning Theory,"Vapnik, Vladimir",data_science,228,
 Empire of the Mughal - The Tainted Throne,"Rutherford, Alex",history,180,
 Empire of the Mughal - Brothers at War,"Rutherford, Alex",history,180,
@@ -166,7 +166,7 @@ Empire of the Mughal - Ruler of the World,"Rutherford, Alex",history,180,
 Empire of the Mughal - The Serpent's Tooth,"Rutherford, Alex",history,180,
 Empire of the Mughal - Raiders from the North,"Rutherford, Alex",history,180,
 Mossad,"Baz-Zohar, Michael",history,236,
-Jim Corbett Omnibus,"Corbett, Jim",nonfiction,223,
+Jim Corbett Omnibus,"Corbett, Jim",non-fiction,223,
 20000 Leagues Under the Sea,"Verne, Jules",fiction,190,
 Batatyachi Chal,Deshpande P L,fiction,200,
 Hafasavnuk,Deshpande P L,fiction,211,
@@ -187,11 +187,11 @@ Oxford book of Modern Science Writing,"Dawkins, Richard",science,240,
 "Arthashastra, The",Kautiyla,philosophy,214,
 We the People,Palkhivala,philosophy,216,
 We the Nation,Palkhivala,philosophy,216,
-"Courtroom Genius, The",Sorabjee,nonfiction,217,
-Dongri to Dubai,"Zaidi, Hussain",nonfiction,216,
+"Courtroom Genius, The",Sorabjee,non-fiction,217,
+Dongri to Dubai,"Zaidi, Hussain",non-fiction,216,
 "History of England, Foundation","Ackroyd, Peter",history,197,
 City of Djinns,"Dalrymple, William",history,198,
-India's Legal System,Nariman,nonfiction,177,
+India's Legal System,Nariman,non-fiction,177,
 More Tears to Cry,"Sassoon, Jean",fiction,235,
 "Ropemaker, The","Dickinson, Peter",fiction,196,
 Angels & Demons,"Brown, Dan",fiction,170,
@@ -204,7 +204,7 @@ Girl with the Dragon Tattoo,"Larsson, Steig",fiction,179,
 Girl who kicked the Hornet's Nest,"Larsson, Steig",fiction,179,
 Girl who played with Fire,"Larsson, Steig",fiction,179,
 Batman Handbook,,comic,270,
-Murphy's Law,,nonfiction,178,
+Murphy's Law,,non-fiction,178,
 Structure and Randomness,"Tao, Terence",mathematics,252,
 Image Processing with MATLAB,"Eddins, Steve",signal_processing,241,
 Animal Farm,"Orwell, George",fiction,180,

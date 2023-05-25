@@ -1,14 +1,14 @@
 import csv
 
 def create_list(dataset):
-    author_list = []
+    genre_list = []
     with open(f"./{dataset}", newline="") as books_file:
         books_dict = csv.DictReader(books_file)
         for row in books_dict:
-            author = row["Author"]
-            if author.split(',')[0] not in author_list:
-                author_list.append(author.split(',')[0])
-    return author_list
+            genre = row["Genre"]
+            if genre.split(',')[0] not in genre_list:
+                genre_list.append(genre.split(',')[0])
+    return genre_list
 
 # create_list("books_new.csv")
 
@@ -25,13 +25,11 @@ def show(dataset, name):
             title = row["Title"]
             author = row["Author"]
             genre = row["Genre"]
-            subgenre = row["SubGenre"]
             height = row["Height"]
-            if name.lower() in row["Author"].lower():
+            if name.lower() in row["Genre"].lower():
                 print(f"""\nTitle:  {title}
 Author:  {author}
 Genre:  {genre}
-SubGenre:  {subgenre}
 Height:  {height}
 """)
                 print("*".rjust(len(title), '*'))
